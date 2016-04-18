@@ -1,0 +1,1 @@
+We need to make several updates to webpack.config.js to enable the hot loader. Here's the updated version:
